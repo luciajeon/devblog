@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Welcome!
 ---
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+
+If you want to reach out to me, always feel free to contact me via [Linkedin](https://www.linkedin.com/in/luciajeon/) or email me at luciaajeon@gmail.com
 
 ### Built on Poole
 

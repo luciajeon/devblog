@@ -4,7 +4,7 @@
  <title>Lucia Jeon's Dev Blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-03-29T00:03:18+09:00</updated>
+ <updated>2022-03-29T01:17:16+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Lucia Jeon</name>
@@ -56,6 +56,32 @@
 &lt;p&gt;Lanyon is developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/poole/lanyon&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
 
 &lt;p&gt;Thanks!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>NYU</title>
+   <link href="http://localhost:4000/2022/02/17/courses/"/>
+   <updated>2022-02-17T00:00:00+09:00</updated>
+   <id>http://localhost:4000/2022/02/17/courses</id>
+   <content type="html">&lt;p&gt;Below are the courses I’ve taken at NYU Tandon School of Engineering.
+Instructors for each course is specified.&lt;/p&gt;
+
+&lt;h3 id=&quot;computer-science&quot;&gt;Computer Science&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Introduction to Programming&lt;/li&gt;
+  &lt;li&gt;Artificial Intelligence&lt;/li&gt;
+  &lt;li&gt;Blah blah&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;math--science&quot;&gt;Math &amp;amp; Science&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Honors Linear Algebra&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;others&quot;&gt;Others&lt;/h3&gt;
+
 </content>
  </entry>
  

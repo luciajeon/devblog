@@ -1,6 +1,6 @@
 ---
-layout: coursework
-title: NYU
+layout: page
+title: Experience
 ---
 
 Below are the courses I've taken at NYU Tandon School of Engineering.

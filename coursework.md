@@ -3,19 +3,39 @@ layout: page
 title: Coursework
 ---
 
-Below are the courses I've taken at NYU Tandon School of Engineering.
-Instructors for each course is specified.
-
+## NYU Tandon School of Engineering
 
 ### Computer Science
 
-* Introduction to Programming
+* Introduction to Computer Engineering
+* Introduction to Programming and Problem Solving
+* Data Structures and Algorithms
+* Object Oriented Programming
+* Computer Architecture and Organization
+* Design & Analysis of Algorithms
+* Introduction to Databases
+* Design and Implementation of Programming Languages
+* Introduction to Operating System
+* Software Engineering
 * Artificial Intelligence
-* Blah blah
+* Undergrad Guided Studies in Computer Science
 
 
 ### Math & Science
+* Discrete Mathematics
+* Calculus 3: Multi-Dimensional Calculus
 * Honors Linear Algebra
 
+* General Chemistry for Engineers
+* Organic Chemistry 1
+* Introduction to Cell and Molecular Biology
+
 ### Others
+* Disability Studies
+* Ethics and Politics of COIVD-19
+
+
+
+
+## Yonsei University (Seoul, Korea)
 

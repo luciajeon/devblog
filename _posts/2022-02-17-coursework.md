@@ -1,5 +1,5 @@
 ---
-layout: courses
+layout: coursework
 title: NYU
 ---
 

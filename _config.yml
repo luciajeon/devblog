@@ -2,15 +2,15 @@
 title:               Lucia Jeon's Blog
 tagline:             'blog.luciajeon.com'
 description:         'Reach out to me via <a href="https://www.linkedin.com/in/luciajeon/" target="_blank">Linkedin</a> .'
-url:                 '/'
-baseurl:             '/'
+#url:                 '/'
+#baseurl:             '/'
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
   name:              Lucia Jeon
-  url:               '/'
+#  url:               '/'
   email:             luciaajeon@gmail.com
 
 # Gems

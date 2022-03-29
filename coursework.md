@@ -33,7 +33,7 @@ title: Coursework
 
 ### Others
 * Disability Studies
-* Ethics and Politics of COIVD-19
+* Ethics and Politics of COVID-19
 
 
 

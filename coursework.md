@@ -3,8 +3,7 @@ layout: page
 title: Coursework
 ---
 
-## <span style="color: #90a959">NYU Tandon School of Engineering</span>
-
+### <span style="color: #90a959">NYU Tandon School of Engineering</span>
 ### Computer Science
 * Introduction to Computer Engineering
 * Introduction to Programming and Problem Solving
@@ -36,10 +35,9 @@ title: Coursework
 * Ethics and Politics of COVID-19
 
 
+<br>
 
-
-## <span style="color: #90a959">Yonsei University (Seoul, Korea)</span>
-
+### <span style="color: #90a959">Yonsei University (Seoul, Korea)</span>
 ### Computer Science
 * Introduction to Big Data Analysis
 * AI and Design

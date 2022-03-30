@@ -3,9 +3,7 @@ layout: page
 title: About
 ---
 
-### Fields of Interest
-
-Below are my major interests:
+### <span style="color: #90a959">Fields of Interest</span>
 
 * Artificial Intelligence
 * Data Science
@@ -15,17 +13,18 @@ Below are my major interests:
 * Multicultural Education
 * Communication
 
-### Skills
+### <span style="color: #90a959">Skills</span>
 
-Below are my major skills:
 
 * Python, C++
 * Selenium, Tensorflow, Tesseract, KoNLPy
 * Google Colab, Pandas, Matplot, Seaborn
-* Django, Jekyll
+* Django, Jekyll, Markdown
 * GitHub
 * English, Korean, Chinese, Spanish
 * Violin
+
+<br>
 
 <p class="message">
 “Intuition is really a sudden immersion of the soul into the universal current of life.”

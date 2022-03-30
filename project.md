@@ -3,17 +3,15 @@ layout: page
 title: Project
 ---
 
-### MyDance (2021-2022)
-* Introduction to Computer Engineering
-* Introduction to Programming and Problem Solving
-* Data Structures and Algorithms
-* Object Oriented Programming
-* Computer Architecture and Organization
-* Design & Analysis of Algorithms
-* Introduction to Databases
-* Design and Implementation of Programming Languages
-* Introduction to Operating System
-* Software Engineering
-* Artificial Intelligence
-* Undergrad Guided Studies in Computer Science
+### <span style="color: #90a959">MyDance (2021.11 - Present)</span>
+* MyDance is a dance platform that recommends dance studios to users and helps register for dance classes (v.1.5)
+* Developed backend code, data crawling code, and a pose estimation AI model as an only developer in the team
+* Currently working on features such as pose analysis, AI-generated feedback, SNS, and E-commerce for later versions
+* Used Django, Selenium, OpenCV, and etc.
+
+### <span style="color: #90a959">SofiaBase (2021.01 - 2021.12)</span>
+* Developed a book recommender platform "SofiaBase" as a part of NYU's Senior Design project
+* Analyzed the text data from the registered books using NLP and recommended books to users
+* Developed a forum tab where users can discuss and debate based on the contents of each book
+* Completed software documentations including the domain, requirements, and analysis
 

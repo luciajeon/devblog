@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/2022/02/17/welcome/</loc>
+<loc>/2022/02/17/welcome/</loc>
 <lastmod>2022-02-17T00:00:00+09:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/about/</loc>
+<loc>/about/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/coursework/</loc>
+<loc>/coursework/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/experience/</loc>
+<loc>/experience/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/research/</loc>
+<loc>/project/</loc>
+</url>
+<url>
+<loc>/research/</loc>
 </url>
 </urlset>

@@ -3,24 +3,30 @@ layout: page
 title: About
 ---
 
-<p class="message">
-“Intuition is really a sudden immersion of the soul into the universal current of life.”
-― Paulo Coelho, The Alchemist
-</p>
-
-Hehehee
-
-
 ### Fields of Interest
 
 Below are my major interests:
 
-* <span style="color: #90a959">AI</span>
+* Artificial Intelligence
 * Data Science
-* Political Science
-* Violin
-* Disability learning
+* Big Data
+* Backend Development
+* Inclusive Education
+* Multicultural Education
+* Communication
 
 ### Skills
 
+Below are my major skills:
 
+* Python, C++
+* Selenium, Tensorflow, Tesseract, KoNLPy
+* Google Colab, Pandas, Matplot, Seaborn
+* Django, Jekyll
+* English, Korean, Chinese, Spanish
+* Violin
+
+<p class="message">
+“Intuition is really a sudden immersion of the soul into the universal current of life.”
+― Paulo Coelho, The Alchemist
+</p>

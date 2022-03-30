@@ -23,6 +23,7 @@ Below are my major skills:
 * Selenium, Tensorflow, Tesseract, KoNLPy
 * Google Colab, Pandas, Matplot, Seaborn
 * Django, Jekyll
+* GitHub
 * English, Korean, Chinese, Spanish
 * Violin
 

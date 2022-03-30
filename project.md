@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Coursework
+title: Project
 ---
 
 ### MyDance (2021-2022)

@@ -2,11 +2,6 @@
 layout: page
 title: Experience
 ---
-### <span style="color: #90a959">Project Manager (PM) at LognCoding (2022.03 - Present)</span>
-* Consult clients over zoom and in-person regarding the project requirements, constraints, funding, and partnerships
-* Set up project ideas so that it involves top-notch technology to maximize efficiency and facilitate issue resolution over the project period
-* Define project's success criteria including deadline and delivery details
-
 
 ### <span style="color: #90a959">Data Analyst at DSLAB GLOBAL (2021.03 - 2021.09)</span>
 
